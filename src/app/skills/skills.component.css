@@ -1,0 +1,27 @@
+p{
+    margin: 0%;
+}
+
+.progress{
+   height: 7px;
+}
+
+.photoshop .progress-bar{
+  background-color: #2c98f0;
+}
+.html .progress-bar{
+    background-color: #f9bf3f;
+}
+.wordpress .progress-bar{
+    background-color: #2fa499;
+}
+.jquery .progress-bar{
+    background-color: #ec5453;
+}
+.css .progress-bar{
+    background-color: #a84cb8;
+}
+.seo .progress-bar{
+    background-color: #4054b2 ;
+}
+

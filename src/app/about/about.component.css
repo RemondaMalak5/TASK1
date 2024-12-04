@@ -1,0 +1,47 @@
+.icon1 {
+    font-size: 30px;
+    color:#2c98f0 ;
+    
+}
+
+.graphic
+{
+    border-bottom: #2c98f0 solid 3px;
+}
+
+.icon2{
+    font-size: 30px;
+    color: #ec5453;
+}
+.web{
+    border-bottom: solid #ec5453 3px ;
+}
+
+.icon3{
+    font-size: 30px;
+    color: #f9bf3f;
+}
+
+.soft{
+    border-bottom: solid #f9bf3f 3px ;
+    
+}
+
+.icon4{
+    font-size: 30px;
+ color: #a84cb8;
+}
+
+.application{
+    border-bottom: solid #a84cb8 3px ;
+    overflow: hidden;
+}
+
+.hi{
+    font-family: Quicksand, Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 15px;
+    line-height: 1.8;
+    color: #00000000;
+    
+}

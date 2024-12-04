@@ -1,0 +1,40 @@
+/* You can add global styles to this file, and also import other style files */
+h5{
+    font-size: 10px;
+    font-family: Quicksand, Arial, sans-serif;
+    font-weight: 500;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    color: #999;
+}
+
+h3{
+    font-family: Playfair Display ,Georgia, serif;
+    font-weight: 700;
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    line-height: 1.8;
+}
+
+p{
+    font-family: Quicksand, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 1.8;
+    color: #000000b3;
+}
+
+h2{
+    font-size: 20px;
+    font-family: Quicksand, Arial, sans-serif;
+    font-weight: 500;
+}
+
+strong{
+    
+    font-family: Quicksand, Arial, sans-serif;
+    font-weight: 500;
+    opacity: .4;
+    font-size: 16px;
+}
